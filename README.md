@@ -8,7 +8,7 @@
   <br>
   I am a Developer, Network Administrator and a Certificated Linux Administrator. You can define me as a IT Nerd. Sharing my Projects and Mentoring people who are new to the Cyber World is what I do and love.
   <br>
-  
+  <br>
 - 🔭 I’m currently working on my Bachelor of Informatik.
 - 🌱 I’m currently learning well too much stuff I guess.
 - 👯 I’m looking to collaborate on Projects which will change the world!
