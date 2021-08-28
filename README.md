@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Welcome to Saizzou's Github <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width=75> </h1>
 
 <!--
 **Saizzou/Saizzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
