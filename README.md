@@ -9,23 +9,12 @@
   I am a Developer, Network Administrator and a Certificated Linux Administrator. You can define me as a IT Nerd. Sharing my Projects and Mentoring people who are new to the Cyber World is what I do and love.
   <br>
   <br>
-- 🔭 I’m currently working on my Bachelor of Informatik.
-- 🌱 I’m currently learning well too much stuff I guess.
-- 👯 I’m looking to collaborate on Projects which will change the world!
-- 🤔 I’m looking for help to build a Place for every IT Lovers. (Turkish/English/German)
-- 💬 Ask me about Coffee! 
-- 📫 How to reach me: Youtube - Koddunyam.net / Discord : https://discord.gg/FUt8xFGjWP
+- 🔭 I’m currently working on my Bachelor of Informatik. <br>
+- 🌱 I’m currently learning well too much stuff I guess. <br>
+- 👯 I’m looking to collaborate on Projects which will change the world! <br>
+- 🤔 I’m looking for help to build a Place for every IT Lovers. (Turkish/English/German) <br>
+- 💬 Ask me about Coffee! <br>
+- 📫 How to reach me: Youtube - Koddunyam.net / Discord : https://discord.gg/FUt8xFGjWP <br>
 <!--
 **Saizzou/Saizzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
