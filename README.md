@@ -1,4 +1,13 @@
+<div align="center">
+<img width="100%" height = "250px" src="https://i.ibb.co/W282bG8/Screenshot-9.png" alt="cover" />
+</div>
+
 <h1> Welcome to Saizzou's Github <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width=75> </h1>
+<p align='center'>
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=saizzou.saizzou)
+
+</p>
 <a href="https://github.com/Saizzou">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saizzou&count_private=true&show_icons=true&theme=chartreuse-dark" />
   </a>
@@ -8,6 +17,19 @@
   <br>
   I am a Developer, Network Administrator and a Certificated Linux Administrator. You can define me as a IT Nerd. Sharing my Projects and Mentoring people who are new to the Cyber World is what I do and love.
   <br>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<a href= https://github.com/saizzou?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
+<a href= https://github.com/saizzou?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href= https://github.com/saizzou?tab=repositories&q=&type=&language=cpp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
+<a href= https://github.com/saizzou?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
+<a href= https://github.com/saizzou?tab=repositories&q=&type=&language=bash&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bash.svg'> </a>
+<a href= https://github.com/saizzou?tab=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
+<a href= https://github.com/saizzou?tab=repositories&q=&type=&language=github&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+<a href= https://github.com/saizzou?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
+<a href= https://github.com/saizzou?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
+<a href= https://github.com/saizzou?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
+<a href= https://github.com/saizzou?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
+<a href= https://github.com/saizzou?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>  
   <br>
 - 🔭 I’m currently working on my Bachelor of Informatik. <br>
 - 🌱 I’m currently learning well too much stuff I guess. <br>
