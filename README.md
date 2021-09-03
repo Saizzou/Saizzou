@@ -33,8 +33,9 @@
   <br>
   <br>
   <h2> Languages I speak : </h2>
-  <a href= https://github.com/saizzou?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' src ='https://media1.giphy.com/media/RfSTDk1BewjP8sfr2O/giphy.gif'> </a>  
-  
+  <a href= https://github.com/saizzou> <imh width ='60px' src ='https://cdn.travelatelier.com/wp-content/uploads/2017/01/turkish-flag.jpg'> </a>
+  <a href= https://github.com/saizzou> <img width ='45px' src ='https://media1.giphy.com/media/RfSTDk1BewjP8sfr2O/giphy.gif'> </a>  
+  <a href= https://github.com/saizzou> <img width ='45px' src ='https://ct.pimp-my-profile.com/i33/5/11/11/f_3f983c6b26.jpg'> </a>  
   <br>
   <br>
 - 🔭 I’m currently working on my Bachelor of Informatik. <br>
