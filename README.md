@@ -16,8 +16,11 @@
   <a href="https://github.com/Saizzou">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saizzou&layout=compact&theme=chartreuse-dark&langs_count=8" /></a>
   <br>
+  
 ![Metrics](https://metrics.lecoq.io/saizzou?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=Germany%2FBerlin)
-  <br>
+
+<br>
+  
   I am a Developer, Network Administrator and a Certificated Linux Administrator. You can define me as a IT Nerd. Sharing my Projects and Mentoring people who are new to the Cyber World is what I do and love.
   <br>
 <h2> Skills/Things I mostly use: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
