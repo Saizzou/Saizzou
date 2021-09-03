@@ -51,6 +51,8 @@
 - 🤔 I’m looking for help to build a Place for every IT Lover. (Turkish/English/German) <br>
 - 💬 Ask me about Python, Linux, BashScript, Open Source <br>
 - 📫 How to reach me: Youtube - Koddunyam.net / Discord : https://discord.gg/FUt8xFGjWP <br>
-<!--
-**Saizzou/Saizzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
+
