@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height = "250px" src="https://media0.giphy.com/media/ko7twHhomhk8E/giphy.gif" alt="cover" />
+<img width="100%" height = "250px" src="https://i.ibb.co/W282bG8/Screenshot-9.png" alt="cover" />
 </div>
 
 <h1 align='center'> Welcome to Saizzou's Github <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width=75> </h1>
