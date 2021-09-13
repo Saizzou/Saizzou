@@ -38,7 +38,7 @@
 <a href= https://github.com/saizzou?tab=repositories&q=&type=&language=mongodb&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mongodb.svg'> </a>
 <a href= https://github.com/saizzou?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
 <a href= https://github.com/saizzou?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a> 
-<a href= https://github.com/saizzou?tab=repositories&q=&type=&language=discord&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
+<a href= https://discord.gg/FUt8xFGjWP> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/discord.svg'> </a>
   <br>
   <br>
   <h2> Languages I speak : </h2>
@@ -52,7 +52,7 @@
 - 👯 I’m looking to collaborate on Projects, which will change the world! <br>
 - 🤔 I’m looking for help to build a Place for every IT Lover. (Turkish/English/German) <br>
 - 💬 Ask me about Python, Linux, BashScript, Open Source <br>
-- 📫 How to reach me: Youtube - Koddunyam.net / Discord : https://discord.gg/FUt8xFGjWP <br>
+- 📫 How to reach me: <a href= https://youtube.com/c/koddunyam>Youtube</a> / <a href= https://discord.gg/FUt8xFGjWP> Discord</a>   <br>
 
 <h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
