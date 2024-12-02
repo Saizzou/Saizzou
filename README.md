@@ -1,19 +1,14 @@
 
 <h1 align='center'> Welcome to Saizzou's Github </h1>
-<p align='center'>
 
 <div align="center">
-  
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 </p>
 <a href="https://github.com/Saizzou">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Saizzou&count_private=true&show_icons=true&theme=chartreuse-dark" />
-  </a>
-  <a href="https://github.com/Saizzou">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saizzou&layout=compact&theme=chartreuse-dark&langs_count=8" /></a>
-  <br>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saizzou&count_private=true&show_icons=true&theme=chartreuse-dark" /></a>
+<a href="https://github.com/Saizzou">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saizzou&layout=compact&theme=chartreuse-dark&langs_count=8" /></a>
+<br>
 </div>
   
   <h3>I am a Developer, Network Administrator and a Certificated Linux Administrator. You can define me as a IT Nerd. Sharing my Projects and Mentoring people who are new to the Cyber World is what I do and love.</h3>
