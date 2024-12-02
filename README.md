@@ -34,10 +34,4 @@
   <a href= https://github.com/saizzou> <img width ='45px' src ='https://media1.giphy.com/media/RfSTDk1BewjP8sfr2O/giphy.gif'> </a>  
   <a href= https://github.com/saizzou> <img width ='45px' src ='https://ct.pimp-my-profile.com/i33/5/11/11/f_3f983c6b26.jpg'> </a>  
   <br>
-  <br>
-- 📫 How to reach me: <a href= https://youtube.com/c/koddunyam>Youtube</a> / <a href= https://discord.gg/FUt8xFGjWP> Discord</a>   <br>
-
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
+- 📫 How to reach me: <a href= https://youtube.com/c/koddunyam>Youtube</a><br>
