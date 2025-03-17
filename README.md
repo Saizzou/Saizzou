@@ -14,7 +14,7 @@
   <h2>About Me</h2>
 
 <h3>I’m a Developer, Network Administrator, and Certified Linux Administrator—an all-around IT nerd with a passion for technology. I love sharing my projects and mentoring those new to the cyber world.</h3>
-<h2></h2>A Note to Users</h2>
+<h2>A Note to Users</h2>
 
 <h3>I'm a self-taught developer, which means some of my projects might contain minor mistakes, bugs, or imperfect code. If you use or copy any of my shared work, I’d appreciate your feedback and improvements!</h3>
   <br>
