@@ -11,7 +11,12 @@
 <br>
 </div>
   
-  <h3>I am a Developer, Network Administrator and a Certificated Linux Administrator. You can define me as a IT Nerd. Sharing my Projects and Mentoring people who are new to the Cyber World is what I do and love.</h3>
+  <h2>About Me</h2>
+
+<h3>I’m a Developer, Network Administrator, and Certified Linux Administrator—an all-around IT nerd with a passion for technology. I love sharing my projects and mentoring those new to the cyber world.</h3>
+<h2></h2>A Note to Users</h2>
+
+<h3>I'm a self-taught developer, which means some of my projects might contain minor mistakes, bugs, or imperfect code. If you use or copy any of my shared work, I’d appreciate your feedback and improvements!</h3>
   <br>
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
